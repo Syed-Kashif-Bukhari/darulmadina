@@ -1,0 +1,26 @@
+/*
+Theme Name: Alyeska
+Description: A simple business theme by Theme Blvd.
+Author: Jason Bobich
+Author URI: http://jasonbobich.com
+Version: 2.1.4
+License: Partial GNU General Public License, please reade license file for more details.
+License URI: license.txt
+*/
+
+/* This theme's primary styles can be found in /assets/css/theme.css */
+
+.islamiDate {
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 940px;
+    padding-top: 2px;
+    text-align: center;
+}
+
+.header-bg{
+    background: url("http://www.darulmadinah.net/wp-content/uploads/2015/12/header-img.jpg") no-repeat top !important ;
+    height: 228px !important;
+}
+
+#menu-wrapper{top: 58px !important}
